@@ -7,7 +7,7 @@
     2. A book has properties: id, title, ISBN, publishedDate, author
     3. make proper changes in js files to implement the step 1 features
     4. Use Postman to test your REST APIs
-4. (Optional) Implement the features below inside lesson05-client project. This project acts as SPA which make calls to lesson05-server APIs. You must have strong knowledge on JavaScript DOM APIs to complete the tasks. I highly recommand you to do this part if you have time.
+4. Implement the features below inside lesson05-client project. This project acts as SPA which make calls to lesson05-server APIs. You must have strong knowledge on JavaScript DOM APIs to complete the tasks. I highly recommand you to do this part if you have time.
     1. Modify index.html, carousel.css to match your design
     2. Write JS code in main.js to implement the feature:
         1. List all books in index.html when open index.html in browser
